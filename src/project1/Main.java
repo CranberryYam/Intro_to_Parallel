@@ -7,7 +7,7 @@ import project1.SortThread;
 public class Main {
 
 	public static void main(String[] args) throws InterruptedException {
-		System.out.println("Hello World");
+//		System.out.println("Hello World");
 		Random r = new Random(System.currentTimeMillis());
 		
 	    int n = r.nextInt(101) + 50;
